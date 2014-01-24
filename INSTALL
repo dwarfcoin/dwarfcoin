@@ -1,0 +1,9 @@
+Building Dwarfcoin
+
+See doc/readme-qt.rst for instructions on building Dwarfcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Dwarfcoin.
+
+See doc/build-*.txt for instructions on building dwarfcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Dwarfcoin.

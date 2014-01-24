@@ -1,0 +1,112 @@
+Shutdown : In progress...
+StopNode()
+Flushed 0 addresses to peers.dat  10ms
+Shutdown : done
+2014-01-12 23:22:42 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2014-01-12 23:22:42 Dwarfcoin version v0.8.6.2-unk-beta (2014-01-10 02:39:33 -1000)
+2014-01-12 23:22:42 Using OpenSSL version OpenSSL 1.0.1e 11 Feb 2013
+2014-01-12 23:22:42 Default data directory /root/.dwarfcoin
+2014-01-12 23:22:42 Using data directory 
+2014-01-12 23:22:42 Using at most 125 connections (1024 file descriptors available)
+2014-01-12 23:22:42 init message: Verifying wallet...
+2014-01-12 23:22:42 dbenv.open LogDir=database ErrorFile=db.log
+2014-01-12 23:22:42 init message: Loading block index...
+2014-01-12 23:22:42 Opening LevelDB in blocks/index
+2014-01-12 23:22:42 Opened LevelDB successfully
+2014-01-12 23:22:42 Opening LevelDB in chainstate
+2014-01-12 23:22:42 Opened LevelDB successfully
+2014-01-12 23:22:42 LoadBlockIndexDB(): last block file = 0
+2014-01-12 23:22:42 LoadBlockIndexDB(): transaction index disabled
+2014-01-12 23:22:42 Initializing databases...
+2014-01-12 23:22:42 d6550f4120adfd255f1ab8eeaa4d09b5804877ae12fc2de2a916e9385dda8d79
+2014-01-12 23:22:42 d6550f4120adfd255f1ab8eeaa4d09b5804877ae12fc2de2a916e9385dda8d79
+2014-01-12 23:22:42 98f03b0d34f046e203bef8374f1b4b4aa3c6e7cbf6ba78a82a03b4a508604310
+2014-01-12 23:22:42 CBlock(hash=d6550f4120adfd255f1ab8eeaa4d09b5804877ae12fc2de2a916e9385dda8d79, input=01000000000000000000000000000000000000000000000000000000000000000000000010436008a5b4032aa878baf6cbe7c6a34a4b1b4f37f8be03e246f0340d3bf098fbfad252f0ff0f1e92f13117, PoW=0000014e68a58b07749749e57b42c1899aee15f771d7b7f3322bac26ed6f2c24, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=98f03b0d34f046e203bef8374f1b4b4aa3c6e7cbf6ba78a82a03b4a508604310, nTime=1389558523, nBits=1e0ffff0, nNonce=389149074, vtx=1)
+2014-01-12 23:22:42   CTransaction(hash=98f03b0d34f046e203bef8374f1b4b4aa3c6e7cbf6ba78a82a03b4a508604310, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 04ffff001d0104404e592054696d65732030352f4f63742f32303131205374657665204a6f62732c204170706c65e280997320566973696f6e6172792c2044696573206174203536)
+    CTxOut(nValue=1000.00000000, scriptPubKey=040184710fa689ad5023690c80f3a4)
+  vMerkleTree: 98f03b0d34f046e203bef8374f1b4b4aa3c6e7cbf6ba78a82a03b4a508604310 
+2014-01-12 23:22:42 ERROR: LoadBlockIndex() : failed to initialize block database: boost::filesystem::space: No such file or directory
+2014-01-12 23:22:42 : Error initializing block database.
+
+Do you want to rebuild the block database now?
+2014-01-12 23:22:42 Shutdown : In progress...
+2014-01-12 23:22:42 StopNode()
+2014-01-12 23:22:42 Flushed 0 addresses to peers.dat  5ms
+2014-01-12 23:22:42 Committing 0 changed transactions to coin database...
+2014-01-12 23:22:42 Shutdown : done
+Shutdown : In progress...
+StopNode()
+Flushed 0 addresses to peers.dat  5ms
+Shutdown : done
+2014-01-12 23:23:13 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2014-01-12 23:23:13 Dwarfcoin version v0.8.6.2-unk-beta (2014-01-10 02:39:33 -1000)
+2014-01-12 23:23:13 Using OpenSSL version OpenSSL 1.0.1e 11 Feb 2013
+2014-01-12 23:23:13 Default data directory /root/.dwarfcoin
+2014-01-12 23:23:13 Using data directory 
+2014-01-12 23:23:13 Using at most 125 connections (1024 file descriptors available)
+2014-01-12 23:23:13 init message: Verifying wallet...
+2014-01-12 23:23:13 dbenv.open LogDir=database ErrorFile=db.log
+2014-01-12 23:23:13 init message: Loading block index...
+2014-01-12 23:23:13 Opening LevelDB in blocks/index
+2014-01-12 23:23:13 Opened LevelDB successfully
+2014-01-12 23:23:13 Opening LevelDB in chainstate
+2014-01-12 23:23:13 Opened LevelDB successfully
+2014-01-12 23:23:13 LoadBlockIndexDB(): last block file = 0
+2014-01-12 23:23:13 LoadBlockIndexDB(): transaction index disabled
+2014-01-12 23:23:13 Initializing databases...
+2014-01-12 23:23:13 d6550f4120adfd255f1ab8eeaa4d09b5804877ae12fc2de2a916e9385dda8d79
+2014-01-12 23:23:13 d6550f4120adfd255f1ab8eeaa4d09b5804877ae12fc2de2a916e9385dda8d79
+2014-01-12 23:23:13 98f03b0d34f046e203bef8374f1b4b4aa3c6e7cbf6ba78a82a03b4a508604310
+2014-01-12 23:23:13 CBlock(hash=d6550f4120adfd255f1ab8eeaa4d09b5804877ae12fc2de2a916e9385dda8d79, input=01000000000000000000000000000000000000000000000000000000000000000000000010436008a5b4032aa878baf6cbe7c6a34a4b1b4f37f8be03e246f0340d3bf098fbfad252f0ff0f1e92f13117, PoW=0000014e68a58b07749749e57b42c1899aee15f771d7b7f3322bac26ed6f2c24, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=98f03b0d34f046e203bef8374f1b4b4aa3c6e7cbf6ba78a82a03b4a508604310, nTime=1389558523, nBits=1e0ffff0, nNonce=389149074, vtx=1)
+2014-01-12 23:23:13   CTransaction(hash=98f03b0d34f046e203bef8374f1b4b4aa3c6e7cbf6ba78a82a03b4a508604310, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 04ffff001d0104404e592054696d65732030352f4f63742f32303131205374657665204a6f62732c204170706c65e280997320566973696f6e6172792c2044696573206174203536)
+    CTxOut(nValue=1000.00000000, scriptPubKey=040184710fa689ad5023690c80f3a4)
+  vMerkleTree: 98f03b0d34f046e203bef8374f1b4b4aa3c6e7cbf6ba78a82a03b4a508604310 
+2014-01-12 23:23:13 ERROR: LoadBlockIndex() : failed to initialize block database: boost::filesystem::space: No such file or directory
+2014-01-12 23:23:13 : Error initializing block database.
+
+Do you want to rebuild the block database now?
+2014-01-12 23:23:13 Shutdown : In progress...
+2014-01-12 23:23:13 StopNode()
+2014-01-12 23:23:13 Flushed 0 addresses to peers.dat  5ms
+2014-01-12 23:23:13 Committing 0 changed transactions to coin database...
+2014-01-12 23:23:13 Shutdown : done
